@@ -35,10 +35,10 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 ## Half Adder:
-![Screenshot 2024-09-24 110854](https://github.com/user-attachments/assets/d91b63e5-5f5a-418e-9908-f7d40e2cd42e)
+![image](https://github.com/user-attachments/assets/1d7c3269-c480-45e9-9556-fdacbac3caf7)
 
 ## Half Subtractor:
-![image](https://github.com/user-attachments/assets/4968128a-6338-4982-a768-188ad0cfda2f)
+![image](https://github.com/user-attachments/assets/5e0c12d0-8336-465f-8972-6a3550b5aad2)
 
 
 **Procedure**
@@ -85,7 +85,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/7a9bd64e-1d94-47aa-9216-5ad34c80a5aa)
 
 
-**Output**
+## Output:
 ## Half Adder:
 ![image](https://github.com/user-attachments/assets/edfa830c-7fde-41de-ae7e-c3c0ea30573e)
 ## Half Subtractor:
